@@ -13,7 +13,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       bottomNavigationBar: CurvedNavigationBar(
         backgroundColor: Color(0xFF1a1c1f),
-        // animationDuration: Duration(milliseconds: 300),
+        animationDuration: Duration(milliseconds: 200),
         index: 2,
         height: 50.0,
         items: <Widget>[
@@ -22,7 +22,7 @@ class _MyHomePageState extends State<MyHomePage> {
             size: 30,
           ),
           Icon(Icons.list, size: 30),
-          Icon(Icons.add, size: 30),
+          Icon(Icons.play_arrow, size: 30),
           Icon(Icons.compare_arrows, size: 30),
           Icon(
             Icons.settings,
