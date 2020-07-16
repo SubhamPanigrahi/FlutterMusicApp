@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372836770542",
+    "firebase_url": "https://consonance-1234.firebaseio.com",
+    "project_id": "consonance-1234",
+    "storage_bucket": "consonance-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372836770542:android:234e678418a39acaa4c9ff",
+        "android_client_info": {
+          "package_name": "com.xcalibre.consonance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372836770542-sm9guc1lkbgent10tgsuiikgkfnr58cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xcalibre.consonance",
+            "certificate_hash": "54e842ba4bf42e060dce43b12db5387c829a54e7"
+          }
+        },
+        {
+          "client_id": "372836770542-qp0uh7ojeu6jj9vtuvfua1ffgtapie52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6vLIVBKFc97iDgep7mqtBbtX-JbpARlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372836770542-qp0uh7ojeu6jj9vtuvfua1ffgtapie52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
